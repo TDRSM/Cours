@@ -30,6 +30,17 @@
 
    Une ligne de séparation (la balise < hr/ > en HTML)
 
+   ---
 
+   # Les liens
+
+   * [Lien sur un site / une Url](https://soundcloud.com/)
+
+   * [Lien vers un autre fichier Github]
+    (https://github.com/TDRSM/Cours/tree/master/site)
+
+    # Les images
+
+    ![Image du site Giphy par ex.] https://imgur.com/a/Uhkp335
 
    [Retour en haut](#haut)
