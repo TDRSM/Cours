@@ -45,4 +45,18 @@
 
     ![Image d'un site imgur par ex.](https://img00.deviantart.net/4ef0/i/2013/026/5/4/katana_logo_by_dirtyhex434-d5such7.png)
 
+Et il reste encore... :octocat: ...
+
+# Les tableaux
+
+On sépare les cellules sur la même ligne avec un PIPE (alt gr + 6)
+
+Nom | Durée | Genre
+--- | --- | ---
+Ca Tartine | 30:04 | Hardstyle
+Ca Tartine V2 | 32:53 | Acidcore
+Ca Tartine V3 | 34:52 | Techno
+Acid Raw 303 | 4:49 | AcidRaw
+
+
    [Retour en haut](#haut)
