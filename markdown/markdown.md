@@ -35,7 +35,7 @@
    # Les liens
 
 
-   * [Lien sur un site / une Url](https://soundcloud.com/)
+   * [Lien sur un site](https://soundcloud.com/)
 
 
    * [Lien vers un autre fichier Github](https://github.com/TDRSM/Cours/tree/master/site)
