@@ -53,10 +53,10 @@ On sépare les cellules sur la même ligne avec un PIPE (alt gr + 6)
 
 Nom | Durée | Genre
 --- | --- | ---
-Ca Tartine | 30:04 | Hardstyle
-Ca Tartine V2 | 32:53 | Acidcore
-Ca Tartine V3 | 34:52 | Techno
-Acid Raw 303 | 4:49 | AcidRaw
+[Ca Tartine](https://soundcloud.com/thundersamurai/ca-tartine) | 30:04 | Hardstyle
+[Ca Tartine V2](https://soundcloud.com/thundersamurai/ca-tartine-v2) | 32:53 | Acidcore
+[Ca Tartine V3](https://soundcloud.com/thundersamurai/ca-tartine-v3) | 34:52 | Techno
+[Acid Raw 303](https://soundcloud.com/thundersamurai/acidraw-303) | 4:49 | AcidRaw
 
 
    [Retour en haut](#haut)
