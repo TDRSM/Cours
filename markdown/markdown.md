@@ -43,6 +43,6 @@
 
     # Les images
 
-    ![Image du site imgur par ex.](https://imgur.com/a/Uhkp335)
+    ![Image d'un site imgur par ex.](https://img00.deviantart.net/4ef0/i/2013/026/5/4/katana_logo_by_dirtyhex434-d5such7.png)
 
    [Retour en haut](#haut)
