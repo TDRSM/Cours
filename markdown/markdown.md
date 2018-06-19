@@ -34,13 +34,16 @@
 
    # Les liens
 
+
    * [Lien sur un site / une Url](https://soundcloud.com/)
+
 
    * [Lien vers un autre fichier Github]
     (https://github.com/TDRSM/Cours/tree/master/site)
 
+
     # Les images
 
-    ![Image du site Giphy par ex.] https://imgur.com/a/Uhkp335
+    ![Image du site Giphy par ex.] (https://giphy.com/stickers/cute-girls-xT9IgEGFwWcC6PdrgI)
 
    [Retour en haut](#haut)
